@@ -396,7 +396,7 @@ Packing 4 channels of data into a texture (RGBA) is not recommended except for a
 | Reverb Effect     | Reverb_ |            |                                  |
 | Sound Attenuation | ATT_    |            |                                  |
 | Sound Class       | SC_     |            | (??? original - No prefix/suffix. Should be put in a folder called SoundClasses) |
-| Sound Concurrency |         | _SCC       | Should be named after a SoundClass |
+| Sound Concurrency | SCC_    |            | Should be named after a SoundClass |
 | Sound Cue         | SW_     | _Cue       |                                  |
 | Sound Mix         | Mix_    |            |                                  |
 | Sound Wave        | SW_     |            |                                  |
