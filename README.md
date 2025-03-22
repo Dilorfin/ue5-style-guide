@@ -398,7 +398,7 @@ Packing 4 channels of data into a texture (RGBA) is not recommended except for a
 | Sound Class       | SC_     |            | (??? original - No prefix/suffix. Should be put in a folder called SoundClasses) |
 | Sound Concurrency | SCC_    |            | Should be named after a SoundClass |
 | Sound Cue         | SW_     | _Cue       |                                  |
-| Sound Mix         | Mix_    |            |                                  |
+| Sound Class Mix   | SCM_    |            |                                  |
 | Sound Wave        | SW_     |            |                                  |
 | MetaSound Source  | MSS_    |            |                                  |
 | MetaSound Patch   | MSP_    |            |                                  |
